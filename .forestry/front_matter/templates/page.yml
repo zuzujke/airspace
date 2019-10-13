@@ -1,4 +1,18 @@
 ---
 label: page
 hide_body: false
-fields: []
+fields:
+- name: block
+  type: blocks
+  label: Block
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: Block description
+- name: inc_template
+  type: include
+  config: {}
+  template: page
+  label: Inc template
+  description: template?
