@@ -9,7 +9,7 @@ sections:
   label: Pages
   create: all
   match: "*"
-upload_dir: exampleSite/static/uploads
+upload_dir: exampleSite/static/images
 public_path: "/uploads"
 front_matter_path: exampleSite/static/images
 use_front_matter_path: true
