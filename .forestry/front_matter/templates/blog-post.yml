@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: Some text
+pages:
+- content/page.md
